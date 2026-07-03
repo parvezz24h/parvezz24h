@@ -1,124 +1,228 @@
-# Hi there, I'm MD Parvez! 👋
+<div align="center">
 
-**Full Stack Web Developer | Next.js Specialist**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20PARVEZ&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Next.js%20Specialist&descAlignY=58&descSize=18" width="100%"/>
 
-Full Stack Web Developer with **4+ years** of experience building scalable, production-ready web applications. Specialized in **Next.js, React, TypeScript, Node.js, and PostgreSQL** with expertise in server-side rendering, API development, and cloud deployment. Experienced in implementing secure authentication with **Better Auth** and deploying on **AWS, Vercel, and Docker**. Passionate about clean code, performance optimization, and modern web architecture.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+TypeScript+Expert+%E2%9C%A8;4%2B+Years+of+Building+Cool+Stuff+%F0%9F%94%A5;Clean+Code+%7C+Performance+%7C+Scalability+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
-- 🌐 Portfolio: [parvez24h.vercel.app](https://parvez24h.vercel.app/)
-- 📧 Email: parvez24h@gmail.com
-- 📞 Phone: +8801736194336
-- 📍 Location: 22/1 Khilkhet, Dhaka-1229, Bangladesh
+<p>
+  <a href="https://linkedin.com/in/parvez24h"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:parvez24h@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://parvez24h.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/parvezz24h"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=parvezz24h&label=Profile+Views&color=6E56CF&style=flat" alt="profile views"/>
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧑‍💻 About Me
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+```ts
+const parvez = {
+  role:       "Full Stack Web Developer | Next.js Specialist",
+  location:   "Dhaka, Bangladesh 🇧🇩",
+  experience: "4+ years",
+  skills:     ["Next.js", "React", "TypeScript", "Node.js", "PostgreSQL"],
+  cloud:      ["AWS (EC2, S3, Lambda)", "Vercel", "Docker"],
+  currently:  "Building scalable, production-ready web apps",
+  passion:    "Clean code · Performance · Modern architecture",
+};
+```
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=flat&logo=shadcnui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&logo=zustand&logoColor=white)
+---
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-4F46E5?style=flat&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-EF4444?style=flat&logoColor=white)
+## 🛠️ Tech Stack
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+<div align="center">
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-4F46E5?style=for-the-badge&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-EF4444?style=for-the-badge&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
 ## 💼 Experience
 
-### Software Engineer
-**Freelance Hub (BD) Limited** — Dhaka, Bangladesh | *Jul 2025 – Present*
-- Built Next.js apps with TypeScript and SSR
-- Designed REST APIs with PostgreSQL/Prisma and Better Auth
-- Deployed on Docker/Aptible with 99.9% uptime
-
-### Jr. Software Engineer
-**Brotecs Technologies Ltd.** — Dhaka, Bangladesh | *Feb 2023 – Jun 2025*
-- Developed React.js/Next.js web apps with Tailwind CSS and React Query
-- Implemented real-time features with WebSocket and Firebase
-- Conducted code reviews, wrote Jest unit tests, and managed CI/CD with GitHub Actions
-
-### Web Development Intern
-**Brotecs Technologies Ltd.** — Dhaka, Bangladesh | *Aug 2022 – Feb 2023*
-- Built responsive React.js interfaces
-- Learned component architecture and REST API integration
-
----
-
-## 🚀 Projects
-
-### Portfolio Website
-**Next.js 14, TypeScript, Tailwind CSS** | [Live Demo](https://parvez24h.vercel.app/)
-
-Built with App Router, SSR, dynamic OG images, MDX blog, and contact form. **95+ Lighthouse score.**
-
-### E-Commerce Platform
-**Next.js, PostgreSQL, Stripe, Better Auth** | [GitHub](https://github.com/parvezz24h)
-
-Full-stack app with product catalog, cart, Stripe checkout, Better Auth, and admin dashboard.
-
-### Task Management App
-**Next.js, React Query, Supabase** | [GitHub](https://github.com/parvezz24h)
-
-Real-time Kanban boards with drag-and-drop, team workspaces, and Supabase sync.
+<table width="100%">
+  <tr>
+    <td width="50px" align="center">🏢</td>
+    <td>
+      <strong>Software Engineer</strong> — Freelance Hub (BD) Limited<br/>
+      <sub>📅 Jul 2025 – Present &nbsp;|&nbsp; 📍 Dhaka, Bangladesh</sub><br/><br/>
+      • Built Next.js apps with TypeScript and SSR<br/>
+      • Designed REST APIs with PostgreSQL/Prisma and Better Auth<br/>
+      • Deployed on Docker/Aptible with <strong>99.9% uptime</strong>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50px" align="center">💼</td>
+    <td>
+      <strong>Jr. Software Engineer</strong> — Brotecs Technologies Ltd.<br/>
+      <sub>📅 Feb 2023 – Jun 2025 &nbsp;|&nbsp; 📍 Dhaka, Bangladesh</sub><br/><br/>
+      • Developed React.js/Next.js web apps with Tailwind CSS and React Query<br/>
+      • Implemented real-time features with WebSocket and Firebase<br/>
+      • Conducted code reviews, Jest unit tests, and CI/CD with GitHub Actions
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50px" align="center">🌱</td>
+    <td>
+      <strong>Web Development Intern</strong> — Brotecs Technologies Ltd.<br/>
+      <sub>📅 Aug 2022 – Feb 2023 &nbsp;|&nbsp; 📍 Dhaka, Bangladesh</sub><br/><br/>
+      • Built responsive React.js interfaces<br/>
+      • Learned component architecture and REST API integration
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎓 Education
+## 🚀 Featured Projects
 
-**B.Sc. in Computer Science & Engineering** | *Jan 2019 – Dec 2022*
-Daffodil International University — Dhaka, Bangladesh
+<div align="center">
 
-**Higher Secondary School Certificate in Science** | *Jun 2016 – Jun 2018*
-Hazi Jafar Ali College — Kishoreganj, Bangladesh
+<a href="https://parvez24h.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parvezz24h&repo=portfolio&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 Portfolio Website</h3>
+      <img src="https://img.shields.io/badge/Next.js_14-000?style=flat&logo=next.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+      <br/><br/>
+      Built with App Router, SSR, dynamic OG images, MDX blog & contact form.<br/>
+      <strong>⚡ 95+ Lighthouse score</strong>
+      <br/><br/>
+      <a href="https://parvez24h.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel"/></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛒 E-Commerce Platform</h3>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white"/>
+      <br/><br/>
+      Full-stack app with product catalog, cart, Stripe checkout, Better Auth & admin dashboard.
+      <br/><br/>
+      <a href="https://github.com/parvezz24h"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📋 Task Management App</h3>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
+      <br/><br/>
+      Real-time Kanban boards with drag-and-drop, team workspaces & Supabase sync.
+      <br/><br/>
+      <a href="https://github.com/parvezz24h"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parvezz24h&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parvezz24h&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=parvezz24h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvezz24h&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=parvezz24h&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parvezz24h&theme=tokyo-night&hide_border=true)](https://github.com/parvezz24h)
+
+</div>
 
 ---
 
-## 📫 Let's Connect!
-- **LinkedIn**: [parvez24h](https://www.linkedin.com/in/parvez24h/)
-- **GitHub**: [parvezz24h](https://github.com/parvezz24h)
-- **Email**: parvez24h@gmail.com
-- **Portfolio**: [parvez24h.vercel.app](https://parvez24h.vercel.app/)
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=parvezz24h&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/parvezz24h)
+
+</div>
 
 ---
 
-⭐️ From [MD Parvez](https://github.com/parvezz24h)
+## 🎓 Education
+
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| 🎓 B.Sc. in Computer Science & Engineering | Daffodil International University, Dhaka | Jan 2019 – Dec 2022 |
+| 📘 HSC in Science | Hazi Jafar Ali College, Kishoreganj | Jun 2016 – Jun 2018 |
+
+---
+
+<div align="center">
+
+### 💬 Let's build something amazing together!
+
+<a href="https://linkedin.com/in/parvez24h"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:parvez24h@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://parvez24h.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
