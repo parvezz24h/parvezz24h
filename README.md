@@ -37,51 +37,68 @@ const parvez = {
 
 <div align="center">
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-4F46E5?style=for-the-badge&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-EF4444?style=for-the-badge&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <h4>🧠 Languages</h4>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" />
+      <br/>
+      <sub><b>TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; HTML5 &nbsp;·&nbsp; CSS3 &nbsp;·&nbsp; SQL</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>🎨 Frontend</h4>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux&theme=dark" />
+      <br/>
+      <sub><b>Next.js 14 &nbsp;·&nbsp; React.js &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; Redux &nbsp;·&nbsp; React Query &nbsp;·&nbsp; Zustand &nbsp;·&nbsp; Shadcn/UI</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>⚙️ Backend</h4>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
+      <br/>
+      <sub><b>Node.js &nbsp;·&nbsp; Express.js &nbsp;·&nbsp; Prisma &nbsp;·&nbsp; Better Auth &nbsp;·&nbsp; Inngest &nbsp;·&nbsp; REST API</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>🗄️ Databases</h4>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,redis&theme=dark" />
+      <br/>
+      <sub><b>PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Redis</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>☁️ DevOps</h4>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel&theme=dark" />
+      <br/>
+      <sub><b>Docker &nbsp;·&nbsp; AWS (EC2, S3, Lambda) &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Vercel &nbsp;·&nbsp; Railway &nbsp;·&nbsp; CI/CD</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>🔧 Tools</h4>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma&theme=dark" />
+      <br/>
+      <sub><b>Git &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Postman &nbsp;·&nbsp; Figma &nbsp;·&nbsp; Stripe &nbsp;·&nbsp; OpenAI API &nbsp;·&nbsp; Resend</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
