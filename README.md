@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20PARVEZ&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Next.js%20Specialist&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+TypeScript+Expert+%E2%9C%A8;4%2B+Years+of+Building+Cool+Stuff+%F0%9F%94%A5;Clean+Code+%7C+Performance+%7C+Scalability+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+TypeScript+Expert+%E2%9C%A8;4%2B+Years+of+Building+Cool+Stuff+%F0%9F%94%A5;Clean+Code+%7C+Performance+%7C+Scalability+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/parvez24h"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -144,14 +144,6 @@ const parvez = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://parvez24h.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parvezz24h&repo=portfolio&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
@@ -194,14 +186,14 @@ const parvez = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parvezz24h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvezz24h&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=parvezz24h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvezz24h&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=parvezz24h&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=parvezz24h&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -217,7 +209,7 @@ const parvez = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=parvezz24h&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/parvezz24h)
+[![trophy](https://github-profile-trophy.vercel.app/?username=parvezz24h&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/parvezz24h)
 
 </div>
 
