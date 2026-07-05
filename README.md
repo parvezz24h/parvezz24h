@@ -110,7 +110,7 @@ const parvez = {
   <tr>
     <td width="50px" align="center">🏢</td>
     <td>
-      <strong>Software Engineer</strong> — Freelance Hub (BD) Limited<br/>
+      <strong>Software Engineer</strong> — Way Wise Technology<br/>
       <sub>📅 Jul 2025 – Present &nbsp;|&nbsp; 📍 Dhaka, Bangladesh</sub><br/><br/>
       • Built Next.js apps with TypeScript and SSR<br/>
       • Designed REST APIs with PostgreSQL/Prisma and Better Auth<br/>
