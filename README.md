@@ -77,7 +77,7 @@ const parvez = {
     <td width="50px" align="center">🏢</td>
     <td>
       <strong>Software Engineer</strong> — <em>Way Wise Technology</em><br/>
-      <sub>📅 Jul 2025 – Present &nbsp;|&nbsp; 📍 Dhaka, Bangladesh</sub><br/><br/>
+      <sub>📅 May 2026 – Present &nbsp;|&nbsp; 📍 Dhaka, Bangladesh</sub><br/><br/>
       ▸ Built production Next.js apps with TypeScript, SSR and App Router<br/>
       ▸ Designed scalable REST APIs backed by PostgreSQL, Prisma ORM and Better Auth<br/>
       ▸ Deployed containerised services on Docker/Aptible maintaining <strong>99.9% uptime</strong>
@@ -88,7 +88,7 @@ const parvez = {
     <td width="50px" align="center">💼</td>
     <td>
       <strong>Jr. Software Engineer</strong> — <em>Brotecs Technologies Ltd.</em><br/>
-      <sub>📅 Feb 2023 – Apr 2026 &nbsp;|&nbsp; 📍 Dhaka, Bangladesh</sub><br/><br/>
+      <sub>📅 Feb 2023 – Apr. 2026 &nbsp;|&nbsp; 📍 Dhaka, Bangladesh</sub><br/><br/>
       ▸ Developed React.js/Next.js web apps with Tailwind CSS and React Query<br/>
       ▸ Implemented real-time features using WebSocket and Firebase<br/>
       ▸ Led code reviews, authored Jest unit tests, and managed CI/CD via GitHub Actions
