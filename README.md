@@ -88,7 +88,7 @@ const parvez = {
     <td width="50px" align="center">💼</td>
     <td>
       <strong>Jr. Software Engineer</strong> — <em>Brotecs Technologies Ltd.</em><br/>
-      <sub>📅 Feb 2023 – Jun 2025 &nbsp;|&nbsp; 📍 Dhaka, Bangladesh</sub><br/><br/>
+      <sub>📅 Feb 2023 – Apr 2026 &nbsp;|&nbsp; 📍 Dhaka, Bangladesh</sub><br/><br/>
       ▸ Developed React.js/Next.js web apps with Tailwind CSS and React Query<br/>
       ▸ Implemented real-time features using WebSocket and Firebase<br/>
       ▸ Led code reviews, authored Jest unit tests, and managed CI/CD via GitHub Actions
